@@ -1,4 +1,4 @@
-# Spring Boot CRUD Application (Without DTO)
+# Spring Boot CRUD Application
 
 This is a **simple Spring Boot CRUD application** built using  
 **Spring Boot + Spring Data JPA + MySQL**,  
@@ -24,13 +24,12 @@ This project is designed for:
 
 ---
 
-## 📁 Project Structure (Without DTO)
+## 📁 Project Structure 
 
 ![project structure](https://github.com/user-attachments/assets/70c3c7d9-8920-4360-afbe-87ac3513b7f5)
 
 
-yaml
-Copy code
+
 
 ---
 
