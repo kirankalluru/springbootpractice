@@ -26,27 +26,8 @@ This project is designed for:
 
 ## 📁 Project Structure (Without DTO)
 
-springbootpractice
-│
-├── src/main/java/com/example/demo
-│ ├── DemoApplication.java
-│ │
-│ ├── controller
-│ │ └── StudentController.java
-│ │
-│ ├── service
-│ │ └── StudentService.java
-│ │
-│ ├── repository
-│ │ └── StudentRepository.java
-│ │
-│ └── entity
-│ └── Student.java
-│
-├── src/main/resources
-│ └── application.properties
-│
-└── pom.xml
+![project structure](https://github.com/user-attachments/assets/70c3c7d9-8920-4360-afbe-87ac3513b7f5)
+
 
 yaml
 Copy code
